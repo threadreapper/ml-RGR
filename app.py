@@ -31,7 +31,7 @@ if page == "1. О разработчике":
     col1, col2 = st.columns([1, 3])
     
     with col1:
-        st.image("https://disk.yandex.ru/i/fgMVzsueLGFH9g", caption="вот он я")
+        st.image("images/me.jpg", caption="вот он я")
     
     with col2:
         st.subheader("ФИО: Полушкин Тимофей Александрович")
